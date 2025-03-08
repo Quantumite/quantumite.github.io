@@ -5,7 +5,7 @@ I enjoy doing cyber security research and my main interests are C/C++ developmen
 
 I completed my Ph.D. at [Dakota State University](https://www.dsu.edu) in March of 2024. My dissertation is publically available [here](https://scholar.dsu.edu/theses/448/).
 
-Check out my [resume](/resume.md) for additional information.
+Check out my [resume](/austin_norby_resume.pdf) for additional information.
 
 ## Personal Blog
 [Blog](/blog/index.md)
